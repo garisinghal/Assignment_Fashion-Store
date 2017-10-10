@@ -1,0 +1,150 @@
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\OpenOrderFramework.dll.config
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\OpenOrderFramework.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\OpenOrderFramework.pdb
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Antlr3.Runtime.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\EntityFramework.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Newtonsoft.Json.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\NLog.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Owin.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\PagedList.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\PagedList.Mvc.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\RestSharp.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.Helpers.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.Mvc.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.Optimization.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.Razor.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.WebPages.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\WebGrease.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\NLog.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\PagedList.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\PagedList.Mvc.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\RestSharp.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.Helpers.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.Mvc.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.Optimization.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.Razor.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.WebPages.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Newtonsoft.Json.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\EntityFramework.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\FashionStore.csprojResolveAssemblyReference.cache
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.first.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.currentv1.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.second.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.vCurrent.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.v70.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.current.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.current1.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.currentv19.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.currentv89.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.updatedentity.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.data.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.Migrations.currentv88.resources
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\FashionStore.csproj.GenerateResource.Cache
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.dll
+C:\Users\Garima\Desktop\OpenOrderFramework-master\OpenOrderFramework\obj\Debug\OpenOrderFramework.pdb
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\OpenOrderFramework.dll.config
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\OpenOrderFramework.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\OpenOrderFramework.pdb
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Antlr3.Runtime.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\EntityFramework.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Newtonsoft.Json.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\NLog.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Owin.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\PagedList.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\PagedList.Mvc.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\RestSharp.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.Helpers.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.Mvc.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.Optimization.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.Razor.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.WebPages.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\WebGrease.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\NLog.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\PagedList.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\PagedList.Mvc.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\RestSharp.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.Helpers.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.Mvc.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.Optimization.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.Razor.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.WebPages.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Newtonsoft.Json.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\EntityFramework.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.first.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.currentv1.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.second.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.vCurrent.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.v70.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.current.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.current1.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.currentv19.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.currentv89.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.updatedentity.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.data.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.Migrations.currentv88.resources
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.csproj.GenerateResource.Cache
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\OpenOrderFramework.dll
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\OpenOrderFramework.pdb
+C:\Users\Garima\Desktop\Fashion Store\FashionStore\obj\Debug\FashionStore.csprojResolveAssemblyReference.cache
